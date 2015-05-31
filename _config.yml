@@ -1,4 +1,5 @@
-﻿### Site info:
+
+### Site info
 title: Tu Android
 tagline: Blog de Android
 title: "Blog Tu Android"
@@ -11,7 +12,7 @@ url: "http://www.tuandroid.es" # the base hostname & protocol for your site
 
 
 
- # Scripts
+# Scripts
 
 analytics :
   provider : google 
