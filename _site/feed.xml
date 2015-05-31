@@ -3,16 +3,16 @@
 	<channel>
 		<title></title>
 		<description>Blog dedicado a informar sobre las últimas novedades del mundo Android y a los mejores Smartphones</description>
-		<link>http://www.tuandroid.es</link>
-		<atom:link href="http://www.tuandroid.es/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://tuandroid.es</link>
+		<atom:link href="http://tuandroid.es/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Empezando</title>
 				<description>&lt;p&gt;Pues empiezo con este nuevo blog para hablar de un tema que me apasiona mucho, estoy hablando de Android. Me gusta sus apps, me gustan los smartphone, me gusta Google, me gusta Android. Y desde TuAndroid.es quiero hablar de esto, informar sobre las nuevas informaciones y noticias de Android y de los mejores Smartphones con este sistema operativo.&lt;/p&gt;
 </description>
 				<pubDate>Sun, 31 May 2015 00:00:00 +0200</pubDate>
-				<link>http://www.tuandroid.es/empezando/</link>
-				<guid isPermaLink="true">http://www.tuandroid.es/empezando/</guid>
+				<link>http://tuandroid.es/empezando/</link>
+				<guid isPermaLink="true">http://tuandroid.es/empezando/</guid>
 			</item>
 		
 	</channel>
